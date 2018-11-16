@@ -5,8 +5,8 @@
       <div class="profile-header__description">
         <p>Web サービスを作る仕事をしています。
         Ruby / Rails / Javascript / Vue.js を好んで使います。
-        個人では <a href="https://rinaria.co" target="_blank">Rinaria</a> というサービスを作成しています。
-        趣味はピアノを弾くことです。囲碁を打ったりもします。</p>
+        個人で <a href="https://rinaria.co" target="_blank">Rinaria</a> というサービスを作成しています。
+        趣味はピアノと囲碁です。</p>
       </div>
     </div>
 
