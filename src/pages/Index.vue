@@ -1,7 +1,9 @@
 <template>
   <Layout>
     <div class="profile-header">
-      <g-image class="profile-header__image-circle" src="~/images/hassan.png" />
+      <div class="profile-header__image-wrapper">
+        <g-image class="profile-header__image-wrapper__image-circle" src="~/images/hassan.png" />
+      </div>
       <div class="profile-header__description">
         <p>Web サービスを作る仕事をしています。
         Ruby / Rails / Javascript / Vue.js を好んで使います。
@@ -70,11 +72,15 @@ export default {}
   align-items: center;
   margin: 0 0 1.5rem 0;
 
-  &__image-circle {
-    border-radius: 50%;
+  &__image-wrapper {
     width: 80px;
-    height: 80px;
     margin: 0 1rem 0 0;
+
+    &__image-circle {
+      border-radius: 50%;
+      width: 80px;
+      height: 80px;
+    }
   }
 }
 
