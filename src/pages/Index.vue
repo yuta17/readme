@@ -68,7 +68,7 @@ export default {}
 .profile-header {
   display: flex;
   align-items: center;
-  margin: 0 0 2rem 0;
+  margin: 0 0 1.5rem 0;
 
   &__image-circle {
     border-radius: 50%;
@@ -80,11 +80,15 @@ export default {}
 
 .section-title {
   font-size: 1.3rem;
-  margin: 2rem 0 0 0;
+  margin: 3rem 0 0 0;
 }
 
 .description-image {
   width: 100%;
-  height: 400px;
+  height: 500px;
+
+  @media screen and (max-width: 500px) {
+    height: 350px;
+  }
 }
 </style>
