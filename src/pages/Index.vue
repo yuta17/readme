@@ -72,6 +72,10 @@ export default {}
   align-items: center;
   margin: 0 0 1.5rem 0;
 
+  @media screen and (max-width: 500px) {
+    margin: 0 0 .5rem 0;
+  }
+
   &__image-wrapper {
     width: 80px;
     margin: 0 1rem 0 0;
