@@ -1,13 +1,12 @@
 <template>
   <div class="layout">
     <header class="header">
-      <strong>
-        <g-link :to="{ name: 'home' }">Gridsome</g-link>
-      </strong>
+      <h1 class="title">Hassan</h1>
+      <!--
       <nav class="nav">
-        <g-link class="nav__link" :to="{ name: 'home' }">Home</g-link>
-        <g-link class="nav__link" :to="{ name: 'about' }">About</g-link>
+        <g-link class="nav__link" :to="{ name: 'works' }">Works</g-link>
       </nav>
+      !-->
     </header>
     <slot/>
   </div>
@@ -15,10 +14,21 @@
 
 <style>
 body {
-  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+  color: #484848;
   margin:0;
   padding:0;
   line-height: 1.5;
+  background-color: #f6f5ed;
+}
+
+a {
+  color: #484848;
+  text-decoration: none;
+}
+
+p {
+  font-size: .9rem;
 }
 
 .layout {
@@ -32,11 +42,17 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 20px;
-  height: 80px;
+  margin-bottom: 10px;
+  height: 70px;
+}
+
+.title {
+  font-size: 1.5rem;
 }
 
 .nav__link {
   margin-left: 20px;
+  color: black;
+  text-decoration: none;
 }
 </style>
