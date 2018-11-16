@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <div class="profile-header">
-      <g-image class="profile-header__image-circle" src="~/images/hassan.jpg" />
+      <g-image class="profile-header__image-circle" src="~/images/hassan.png" />
       <div class="profile-header__description">
         <p>Web サービスを作る仕事をしています。
         Ruby / Rails / Javascript / Vue.js を好んで使います。
