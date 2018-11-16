@@ -7,7 +7,7 @@
       <div class="profile-header__description">
         <p>Web サービスを作る仕事をしています。
         Ruby / Rails / Javascript / Vue.js を好んで使います。
-        個人で <a href="https://rinaria.co" target="_blank">Rinaria</a> というサービスを作成しています。
+        個人で Rinaria というサービスを作成しています。
         趣味はピアノと囲碁です。</p>
       </div>
     </div>
@@ -21,7 +21,7 @@
       <section>
         <h2 class="section-title">仕事 (2018/03/01 ~)</h2>
         <p>クラウドファンディングのサービスを作っています。</p>
-        <p>主な業務は、バックエンド (Ruby / Rails)・フロントエンド (CSS [SASS] / Javascript) を用いて新規の機能開発や機能改善をすることです。</p>
+        <p>主な業務は、バックエンド (Ruby / Rails)・フロントエンド (CSS [SCSS] / Javascript) を用いて新規の機能開発や機能改善をすることです。</p>
       </section>
 
       <section>
