@@ -23,8 +23,7 @@ body {
 }
 
 a {
-  color: #484848;
-  text-decoration: none;
+  color: #d64854
 }
 
 p {
