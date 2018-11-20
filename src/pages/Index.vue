@@ -15,7 +15,8 @@
     <article>
       <p>
         <a href="https://twitter.com/hassasa3">Twitter</a> / 
-        <a href="https://www.instagram.com/hassasasan/">Instagram</a> やっています。
+        <a href="https://www.instagram.com/hassasasan/">Instagram</a> / 
+        <a href="https://note.mu/usabdelah">note</a> やっています。
       </p>
 
       <section>
