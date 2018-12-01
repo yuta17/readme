@@ -27,8 +27,8 @@
 
       <section>
         <h2 class="section-title">個人開発してます</h2>
-        <p>個人で <a href="https://rinaria.co" target="_blank">Rinaria (https://rinaria.co)</a> という演奏化のマッチングサービスを作っています。</p>
-        <p>質の高いマッチングを実現するため、今は演奏化の動画・音源・文章などのアウトプットをまとめる場所になることを目指しています。</p>
+        <p>個人で「弾きたい曲を最短で弾けるようになる」 <a href="https://rinaria.co" target="_blank">Rinaria (https://rinaria.co)</a> というサービスを作っています。</p>
+        <p>弾きたい曲を最短で弾けるようになるために圧倒的支援をしていきます。</p>
       </section>
 
       <br>
