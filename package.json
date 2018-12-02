@@ -10,5 +10,9 @@
     "gridsome": "^0.3.0",
     "node-sass": "^4.10.0",
     "sass-loader": "^7.1.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.3.1",
+    "postcss-loader": "^3.0.0"
   }
 }
