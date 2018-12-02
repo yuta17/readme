@@ -2,11 +2,10 @@
   <div class="layout">
     <header class="header">
       <h1 class="title">Hassan</h1>
-      <!--
       <nav class="nav">
-        <g-link class="nav__link" :to="{ name: 'works' }">Works</g-link>
+        <g-link class="nav__link" :to="{ name: 'home' }">About</g-link>
+        <g-link class="nav__link" :to="{ name: 'posts' }">Posts</g-link>
       </nav>
-      !-->
     </header>
     <slot/>
   </div>
