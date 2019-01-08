@@ -28,8 +28,8 @@
 
       <section>
         <h2 class="section-title">個人開発してます</h2>
-        <p>個人で「弾きたい曲を最短で弾けるようになる」 <a href="https://rinaria.co" target="_blank">Rinaria (https://rinaria.co)</a> というサービスを作っています。</p>
-        <p>弾きたい曲を最短で弾けるようになるために圧倒的支援をしていきます。</p>
+        <p>個人で「楽器を弾く人のための、練習曲の管理サービス」 <a href="https://rinaria.co" target="_blank">Rinaria</a> を作っています。</p>
+        <p>弾きたい曲を管理して、練習して、弾ける曲を増やすことが目的です。</p>
       </section>
 
       <br>
