@@ -20,10 +20,15 @@
       </p>
 
       <section>
-        <h2 class="section-title">仕事 (2018/03/01 ~)</h2>
-        <p>クラウドファンディングのサービスを作っています。</p>
-        <p>主な業務は、バックエンド (Ruby / Rails)・フロントエンド (CSS [SCSS] / Javascript) を用いて新規の機能開発や機能改善をすることです。</p>
-        <p>2018年の後半では支援フローを一画面減らしたり、クイック支援、ログインせずに支援などを開発しました。</p>
+        <h2 class="section-title">仕事</h2>
+        <p>今はクラウドファンディングのサービスを作っています。</p>
+        <p>主な業務は、Ruby / Rails / Javascript / CSS を用いた新機能の開発や既存機能の改善をすることです。自動テストの追加や、Rails のバージョンアップデート、検証環境の品質向上等もやりました。</p>
+        <p>業務でやった事の記事も書いています。</p>
+        <ul>
+          <li><a href='https://note.mu/campfire_dev/n/n72acb517aecc'>2タップでかんたん支援！クイック支援をリリースしました！</a></li>
+          <li><a href='https://note.mu/campfire_dev/n/n354c56dd007c'>プロジェクトの支援がしやすく！ログインせずに支援できるようになりました！</a></li>
+          <li><a href='https://note.mu/campfire_dev/n/nb5969d388fd3'>Rails 5.1.6 から 5.2.2.1 へアップデートしました！</a></li>
+        </ul>
       </section>
 
       <section>

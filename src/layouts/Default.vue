@@ -12,7 +12,7 @@
   </div>
 </template>
 
-<style>
+<style lang='scss'>
 body {
   font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
   color: #484848;
@@ -28,6 +28,14 @@ a {
 
 p {
   font-size: .9rem;
+}
+
+ul {
+  padding-left: 1.5rem;
+
+  li {
+    font-size: .9rem;
+  }
 }
 
 .layout {
