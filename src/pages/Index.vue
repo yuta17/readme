@@ -48,7 +48,7 @@
         <iframe width="100%" height="315" src="https://www.youtube.com/embed/7-InFoUHtO8?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>使用している電子ピアノは Roland の RD2000 です。</p>
         <p>最高ですね。</p>
-        <p>今後弾く曲は <a href="https://rinaria.co/users/@uvpian" target="_blank">Rinaria の私のページ</a>から見ることができます。</p>
+        <p>今後弾く曲は <a href="https://rinaria.co/users/uvpian" target="_blank">Rinaria の私のページ</a>から見ることができます。</p>
       </section>
 
       <section>
