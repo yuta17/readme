@@ -22,7 +22,7 @@
       <section>
         <h2 class="section-title">仕事</h2>
         <p>今はクラウドファンディングのサービスを作っています。</p>
-        <p>主な業務は、Ruby / Rails / Javascript / CSS を用いた新機能の開発や既存機能の改善をすることです。自動テストの追加や、Rails のバージョンアップデート、検証環境の品質向上等もやりました。</p>
+        <p>主な業務は、Ruby / Rails / Javascript / CSS を用いた新機能の開発や既存機能の改善をすることです。自動テストの追加や、Rails のバージョンアップデート、素の Webpack と Vue の導入などもやりました。</p>
         <p>業務でやった事の記事も書いています。</p>
         <ul>
           <li><a href='https://note.mu/campfire_dev/n/n72acb517aecc'>2タップでかんたん支援！クイック支援をリリースしました！</a></li>
@@ -32,7 +32,7 @@
       </section>
 
       <section>
-        <h2 class="section-title">個人開発してます</h2>
+        <h2 class="section-title">個人開発をしてます</h2>
         <p>個人で「楽器を弾く人のための、練習曲の管理サービス」 <a href="https://rinaria.co" target="_blank">Rinaria</a> を作っています。</p>
         <p>弾きたい曲を管理して、練習して、弾ける曲を増やすことが目的です。</p>
       </section>
