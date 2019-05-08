@@ -28,6 +28,7 @@
           <li><a href='https://note.mu/campfire_dev/n/n72acb517aecc'>2タップでかんたん支援！クイック支援をリリースしました！</a></li>
           <li><a href='https://note.mu/campfire_dev/n/n354c56dd007c'>プロジェクトの支援がしやすく！ログインせずに支援できるようになりました！</a></li>
           <li><a href='https://note.mu/campfire_dev/n/nb5969d388fd3'>Rails 5.1.6 から 5.2.2.1 へアップデートしました！</a></li>
+          <li><a href='https://note.mu/campfire_dev/n/n1686059962b5'>Rails に Webpack と Vue を導入しました！</a></li>
         </ul>
       </section>
 
