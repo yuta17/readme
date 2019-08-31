@@ -7,8 +7,7 @@
       <div class="profile-header__description">
         <p>Web サービスを作る仕事をしています。
         Ruby / Rails / Javascript / Vue.js を好んで使います。
-        個人で Rinaria というサービスを作成しています。
-        趣味はピアノと囲碁です。</p>
+        趣味は個人開発とピアノと囲碁です。</p>
       </div>
     </div>
 
@@ -22,7 +21,7 @@
       <section>
         <h2 class="section-title">仕事</h2>
         <p>今はクラウドファンディングのサービスを作っています。</p>
-        <p>主な業務は、Ruby / Rails / Javascript / CSS を用いた新機能の開発や既存機能の改善をすることです。自動テストの追加や、Rails のバージョンアップデート、素の Webpack と Vue の導入などもやりました。</p>
+        <p>主な業務は、Ruby / Rails / Javascript / CSS を用いた新機能の開発、開発環境の改善です。</p>
         <p>業務でやった事の記事も書いています。</p>
         <ul>
           <li><a href='https://note.mu/campfire_dev/n/n72acb517aecc'>2タップでかんたん支援！クイック支援をリリースしました！</a></li>
@@ -33,9 +32,9 @@
       </section>
 
       <section>
-        <h2 class="section-title">個人開発をしてます</h2>
-        <p>個人で「楽器を弾く人のための、練習曲の管理サービス」 <a href="https://rinaria.co" target="_blank">Rinaria</a> を作っています。</p>
-        <p>弾きたい曲を管理して、練習して、弾ける曲を増やすことが目的です。</p>
+        <h2 class="section-title">個人開発をしています</h2>
+        <p>1日1問形式でSQLを学ぶ <a href="https://q-dash.jp" target="_blank">Qdash</a> を作っています。</p>
+        <p>勉強が続かない人でも隙間時間に手軽に学べるのがキモです。</p>
       </section>
 
       <br>
@@ -49,7 +48,6 @@
         <iframe width="100%" height="315" src="https://www.youtube.com/embed/7-InFoUHtO8?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>使用している電子ピアノは Roland の RD2000 です。</p>
         <p>最高ですね。</p>
-        <p>今後弾く曲は <a href="https://rinaria.co/users/uvpian" target="_blank">Rinaria の私のページ</a>から見ることができます。</p>
       </section>
 
       <section>
