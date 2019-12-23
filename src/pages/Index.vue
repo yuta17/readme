@@ -23,6 +23,8 @@
         <p>株式会社CAMPFIREでエンジニアをしています。</p>
         <p>主な業務は、Ruby / Rails / Javascript / CSS を用いた新機能の開発、開発環境の改善です。</p>
         <p>最近はインフラの経験も身に付けたいと考え、SREエンジニアに転身しました。</p>
+        <h4>SKILLS</h4>
+        <p>HTML5 / CSS / Ruby / Rails / Vue.js / Nuxt.js / MySQL / PostgreSQL / Terraform / AWS / Git</p>
 
         <h2 class="section-title">執筆</h2>
         <p>仕事でやった事を記事に書いたりしています。</p>
