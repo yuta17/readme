@@ -5,45 +5,70 @@
         <g-image class="profile-header__image-wrapper__image-circle" src="~/images/hassan.png" />
       </div>
       <div class="profile-header__description">
-        <p>Web サービスを作る仕事をしています。
-        Ruby / Rails / Javascript / Vue.js を好んで使います。
-        趣味は個人開発とピアノと囲碁です。</p>
+        <p>
+          Web サービスを作る仕事をしています。
+          Ruby / Rails / Javascript / Vue.js を好んで使います。
+          趣味は個人開発とピアノと囲碁です。
+        </p>
       </div>
     </div>
 
     <article>
       <p>
         <a href="https://twitter.com/hassasa3">Twitter</a> /&nbsp;
-        <a href="https://www.instagram.com/hassasasan/">Instagram</a> /&nbsp;
-        <a href="https://note.mu/usabdelah">note</a> やっています。
+        <a href="https://note.mu/usabdelah">note</a> /&nbsp;
+        <a href="https://qiita.com/Hassan">Qiita</a> /&nbsp;
+        <a href="https://qiita.com/Hassan">GitHub</a> やっています。
       </p>
 
       <section>
         <h2 class="section-title">仕事</h2>
-        <p>株式会社CAMPFIREでエンジニアをしています。</p>
-        <p>主な業務は、Ruby / Rails / Javascript / CSS を用いた新機能の開発、開発環境の改善です。</p>
-        <p>最近はインフラの経験も身に付けたいと考え、SREエンジニアに転身しました。</p>
+        <p>株式会社CAMPFIREでWeb・SREエンジニア→フリーランスエンジニアになりました。</p>
+        <p>以下のスキルを用いた機能開発、改善、SRE業務をしています。</p>
         <h4>SKILLS</h4>
         <p>HTML5 / CSS / Ruby / Rails / Vue.js / Nuxt.js / MySQL / PostgreSQL / Terraform / AWS / Git</p>
 
         <h2 class="section-title">執筆</h2>
         <p>仕事でやった事を記事に書いたりしています。</p>
         <ul>
-          <li><a href='https://note.mu/campfire_dev/n/n72acb517aecc'>2タップでかんたん支援！クイック支援をリリースしました！</a></li>
-          <li><a href='https://note.mu/campfire_dev/n/n354c56dd007c'>プロジェクトの支援がしやすく！ログインせずに支援できるようになりました！</a></li>
-          <li><a href='https://note.mu/campfire_dev/n/nb5969d388fd3'>Rails 5.1.6 から 5.2.2.1 へアップデートしました！</a></li>
-          <li><a href='https://note.mu/campfire_dev/n/n1686059962b5'>Rails に Webpack と Vue を導入しました！</a></li>
-          <li><a href='https://qiita.com/Hassan/items/065dd6bd3c123e1a6092'>Digdag + Embulk によるデータマスキング</a></li>
+          <li>
+            <a href="https://note.mu/campfire_dev/n/n72acb517aecc">2タップでかんたん支援！クイック支援をリリースしました！</a>
+          </li>
+          <li>
+            <a
+              href="https://note.mu/campfire_dev/n/n354c56dd007c"
+            >プロジェクトの支援がしやすく！ログインせずに支援できるようになりました！</a>
+          </li>
+          <li>
+            <a
+              href="https://note.mu/campfire_dev/n/nb5969d388fd3"
+            >Rails 5.1.6 から 5.2.2.1 へアップデートしました！</a>
+          </li>
+          <li>
+            <a href="https://note.mu/campfire_dev/n/n1686059962b5">Rails に Webpack と Vue を導入しました！</a>
+          </li>
+          <li>
+            <a
+              href="https://qiita.com/Hassan/items/065dd6bd3c123e1a6092"
+            >Digdag + Embulk によるデータマスキング</a>
+          </li>
         </ul>
       </section>
 
       <section>
         <h2 class="section-title">個人開発</h2>
-        <p>1日1問形式でSQLを学ぶ <a href="https://q-dash.jp" target="_blank">Qdash</a> を作っています。</p>
+        <p>
+          1日1問形式でSQLを学ぶ
+          <a href="https://q-dash.jp" target="_blank">Qdash</a> を作っています。
+        </p>
         <p>勉強が続かない人でも隙間時間に手軽に学べる点がポイントです。</p>
+        <p>
+          最近は個人間で契約を結ぶことができる
+          <a href="https://signbook.app" target="_blank">SignBook</a>も作りました。
+        </p>
       </section>
 
-      <br>
+      <br />
       <p>仕事・個人問わず、「自分が使うものを作る」ことを大切にしています。</p>
 
       <section>
@@ -51,14 +76,21 @@
         <p>アニソン・ボカロ・JPOP を中心にピアノを弾きます。</p>
         <p>愛してやまないピアニスト「まらしぃ」さんの譜面を弾いたり、耳コピして弾きます。</p>
         <p>これは耳コピして弾いた BiSH の「プロミスザスター」という曲です。</p>
-        <iframe width="100%" height="315" src="https://www.youtube.com/embed/7-InFoUHtO8?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe
+          width="100%"
+          height="315"
+          src="https://www.youtube.com/embed/7-InFoUHtO8?controls=0"
+          frameborder="0"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
         <p>使用している電子ピアノは Roland の RD2000 です。</p>
         <p>最高ですね。</p>
 
         <p>後、たまに囲碁を打ちます。</p>
         <p>五段戦で惜しくも準優勝だったり、小さな大会で優勝するくらいの実力です。</p>
-        <g-image class='description-image' src="~/images/igo.png" />
-        <g-image class='description-image' src="~/images/igo_yusyo.png" />
+        <g-image class="description-image" src="~/images/igo.png" />
+        <g-image class="description-image" src="~/images/igo_yusyo.png" />
         <p>囲碁を初めた時から六段の取得が目標なのですが、人生の後半で目標を失った時のために五段でとめています。</p>
       </section>
 
