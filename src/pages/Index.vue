@@ -26,7 +26,13 @@
         <p>株式会社CAMPFIREでWeb・SREエンジニア→フリーランスエンジニアになりました。</p>
         <p>以下のスキルを用いた機能開発、改善、SRE業務をしています。</p>
         <h4>SKILLS</h4>
-        <p>HTML5 / CSS / Ruby / Rails / Vue.js / Nuxt.js / MySQL / PostgreSQL / Terraform / AWS / Git</p>
+        <ul>
+          <li>HTML5、CSS3、SCSS</li>
+          <li>Vue.js、Nuxt.js</li>
+          <li>Ruby、Rails、Golang (New!)</li>
+          <li>AWS、Heroku、Terraform</li>
+          <li>MySQL、PostgreSQL</li>
+        </ul>
 
         <h2 class="section-title">執筆</h2>
         <p>仕事でやった事を記事に書いたりしています。</p>
