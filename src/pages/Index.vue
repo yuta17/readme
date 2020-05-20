@@ -18,7 +18,7 @@
         <a href="https://twitter.com/hassasa3">Twitter</a> /&nbsp;
         <a href="https://note.mu/usabdelah">note</a> /&nbsp;
         <a href="https://qiita.com/Hassan">Qiita</a> /&nbsp;
-        <a href="https://qiita.com/Hassan">GitHub</a> やっています。
+        <a href="https://github.com/yuta17">GitHub</a> やっています。
       </p>
 
       <section>
