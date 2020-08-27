@@ -64,14 +64,10 @@
       <section>
         <h2 class="section-title">個人開発</h2>
         <p>
-          1日1問形式でSQLを学ぶ
-          <a href="https://q-dash.jp" target="_blank">Qdash</a> を作っています。
+          請求書・作業報告書の自動作成サービス
+          <a href="https://klow.app" target="_blank">Klow</a> を作っています。
         </p>
-        <p>勉強が続かない人でも隙間時間に手軽に学べる点がポイントです。</p>
-        <p>
-          最近は個人間で契約を結ぶことができる
-          <a href="https://signbook.app" target="_blank">SignBook</a>も作りました。
-        </p>
+        <p>毎月の経理作業を億劫に感じてるフリーランスの方に特にお勧めです。</p>
       </section>
 
       <br />
