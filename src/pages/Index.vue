@@ -7,7 +7,7 @@
       <div class="profile-header__description">
         <p>
           Web サービスを作る仕事をしています。
-          Ruby / Rails / Nuxt.js を好んで使います。
+          Rails / Nuxt.js を好んで使います。
           趣味は個人開発とピアノと囲碁です。
         </p>
       </div>
@@ -23,55 +23,31 @@
 
       <section>
         <h2 class="section-title">仕事</h2>
-        <p>株式会社CAMPFIREでWeb・SREエンジニア→フリーランスエンジニアになりました。</p>
-        <p>以下のスキルを用いた機能開発、改善をしています。</p>
-        <h4>SKILLS</h4>
+        <p>
+        フリーランスで Rails エンジニアをしています。
+        前職は株式会社CAMPFIREで Web・SREエンジニアをしていました。
+        サブスキルは Nuxt.js / AWS など。
+        </p>
+
+        <h4>できること</h4>
         <ul>
-          <li>HTML5、CSS3、SCSS</li>
-          <li>Vue.js、Nuxt.js、TypeScript</li>
-          <li>Ruby、Rails</li>
-          <li>AWS、Heroku、Terraform</li>
-          <li>MySQL、PostgreSQL</li>
+          <li>新機能開発</li>
+          <li>機能改善</li>
+          <li>Ruby / Rails のバージョンアップデート</li>
+          <li>パフォーマンスチューニング</li>
+          <li>etc</li>
         </ul>
 
-        <h2 class="section-title">執筆</h2>
-        <p>仕事でやった事を記事に書いたりしています。</p>
-        <ul>
-          <li>
-            <a href="https://note.mu/campfire_dev/n/n72acb517aecc">2タップでかんたん支援！クイック支援をリリースしました！</a>
-          </li>
-          <li>
-            <a
-              href="https://note.mu/campfire_dev/n/n354c56dd007c"
-            >プロジェクトの支援がしやすく！ログインせずに支援できるようになりました！</a>
-          </li>
-          <li>
-            <a
-              href="https://note.mu/campfire_dev/n/nb5969d388fd3"
-            >Rails 5.1.6 から 5.2.2.1 へアップデートしました！</a>
-          </li>
-          <li>
-            <a href="https://note.mu/campfire_dev/n/n1686059962b5">Rails に Webpack と Vue を導入しました！</a>
-          </li>
-          <li>
-            <a
-              href="https://qiita.com/Hassan/items/065dd6bd3c123e1a6092"
-            >Digdag + Embulk によるデータマスキング</a>
-          </li>
-        </ul>
-      </section>
+        <p>仕事を依頼したい方は<a href="https://github.com/yuta17/cv_public">実績(職務経歴書)</a>をご覧ください。</p>
 
       <section>
         <h2 class="section-title">個人開発</h2>
         <p>
-          請求書・作業報告書の自動作成サービス
+          個人でフリーランス・副業向けの稼働管理サービス
           <a href="https://klow.app" target="_blank">Klow</a> を作っています。
         </p>
-        <p>毎月の経理作業を億劫に感じてるフリーランスの方に特にお勧めです。</p>
+        <p>日頃の稼働管理はもちろん、毎月のクライアントへの提出書類をワンクリックでダウンロードできるので、自分で作って自分で重宝しています。</p>
       </section>
-
-      <br />
-      <p>仕事・個人問わず、「自分が使うものを作る」ことを大切にしています。</p>
 
       <section>
         <h2 class="section-title">趣味</h2>
@@ -98,7 +74,7 @@
 
       <section>
         <h2 class="section-title">今後の目標</h2>
-        <p>0->1で多くの人に使われるサービスを作る</p>
+        <p>0->1でユーザーに好かれるサービスを作る。その収益で生活できたら最高です。</p>
       </section>
     </article>
   </Layout>
